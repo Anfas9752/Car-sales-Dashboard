@@ -1,2 +1,2 @@
 # Car-sales-Dashboard
-Car soles dashboard  using power BI
+Car sales dashboard  using power BI
